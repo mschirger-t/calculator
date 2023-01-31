@@ -1,0 +1,24 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "calculator",
+      "versionNumber": "0.1.0.NEXT",
+      "unpackagedMetadata": {
+        "path": "force-app-unpackaged"
+      }
+    },
+    {
+      "path": "force-app-unpackaged",
+      "default": false
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "calculator": "0HoDn000000005QKAQ",
+    "calculator@0.1.0-1": "04tDn000000NDsZIAW"
+  }
+}
